@@ -1,2 +1,0 @@
-# winspirit
-winspirit site
